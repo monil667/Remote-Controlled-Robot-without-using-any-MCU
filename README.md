@@ -5,22 +5,39 @@ It serves as an excellent educational platform for those looking to deepen their
 
 ![FEPNPOUJ6MG870Q](https://github.com/monil667/Remote-Controlled-Robot-without-using-any-MCU/assets/114842275/736e9c70-7f97-4a8e-950f-798a0e5c177a)
 
-# Components 
+# Features
 
-1x Voltage Regulator 7805  
-1x 1N4001 Diode 
-1x Heat Sink, TO-220 
-1x HT12E Encoder 
-1x HT12D Decoder 
-1x RF Link Transmitter 434MHz 
-1x RF Link Receiver 434MHz 
-1x L293D Half-Bridge Driver 
-2x 5mm Green LED 
-1x 9V Battery Clip 
-1x 9V Battery 
-1x Robot 3-wheel Chassis kit 
-4x Insulated Quick Connector Red Female 
-4x Quick Connector Red Male
+- Easy to build
+- Cost-effective
+- Educational
+
+# Components
+
+1. Transmitter and Receiver Modules
+2. DC Motors
+   - For driving the wheels
+3. Motor Driver Circuit
+4. Power Supply
+5. Control Interface
+   - Switches
+   - Joysticks
+6. Chassis
+7. Wheels and Axles
+8. Electronic Components
+   - Resistors
+   - Capacitors
+   - Transistors
+   - Relays
+   - Diodes
+
+# Steps to Build
+
+1. Design the transmitter circuit.
+2. Implement the receiver circuit.
+3. Construct the motor control system.
+4. Assemble the chassis.
+5. Test the vehicle.
+
 
 
 
