@@ -49,7 +49,12 @@ It serves as an excellent educational platform for those looking to deepen their
 4. Assemble the chassis.
 5. Test the vehicle.
 
+# Applications
+- Educational projects for learning basic electronics and control systems.
+- Demonstrations of fundamental principles in wireless communication and motor control.
 
+# Conclusion
+By focusing on discrete components and avoiding microcontrollers, this project provides a deeper appreciation of the underlying electronics, Creating a solid foundation in basic engineering principles.
 
 
 
