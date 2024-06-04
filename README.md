@@ -5,6 +5,12 @@ It serves as an excellent educational platform for those looking to deepen their
 
 ![FEPNPOUJ6MG870Q](https://github.com/monil667/Remote-Controlled-Robot-without-using-any-MCU/assets/114842275/736e9c70-7f97-4a8e-950f-798a0e5c177a)
 
+# Objectives
+-To create a remote-controlled vehicle using discrete electronic components.
+-To explore alternative methods for vehicle control without relying on microcontrollers or programmable devices.
+-To understand and implement basic wireless communication techniques for remote control.
+-To design a simple and cost-effective remote control system.
+
 # Features
 
 - Easy to build
