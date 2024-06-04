@@ -13,17 +13,22 @@ It serves as an excellent educational platform for those looking to deepen their
 
 # Components
 
-1. Transmitter and Receiver Modules
+1. Transmitter and Receiver Modules - 434 Mhz
 2. DC Motors
    - For driving the wheels
-3. Motor Driver Circuit
+3. Motor Driver
+   - L293D IC
 4. Power Supply
-5. Control Interface
+   - LiPo Battery
+5. Encoder Circuit
+   - HT12E IC
+6. Decoder Circuit
+   - HT12D IC
+7. Control Interface
    - Switches
-   - Joysticks
-6. Chassis
-7. Wheels and Axles
-8. Electronic Components
+8. Chassis
+9. Wheels 
+10. Electronic Components(Value as per circuit diagram)
    - Resistors
    - Capacitors
    - Transistors
