@@ -34,7 +34,7 @@ It serves as an excellent educational platform for those looking to deepen their
    - Switches
 8. Chassis
 9. Wheels 
-10. Electronic Components(Value as per circuit diagram)
+10. Electronic Components
    - Resistors
    - Capacitors
    - Transistors
